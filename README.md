@@ -1,6 +1,7 @@
 <div align="center">
-  <h1> Hello there, I'm Thomas !  
-  </h1>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
   <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/thomaschimbault/">
