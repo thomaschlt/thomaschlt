@@ -18,39 +18,6 @@
 <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
 </p>
-
----
-
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-
-```yaml
-name: Thomas Chimbault
-located_in: Bordeaux, France
-current_job: AI & Cognitive Sciences Student
-education:
-  [
-    "Passionnate about Gen AI",
-    "Engineering degree in AI & Cognitive Sciences",
-    "Strong focus in mathematics and computer science",
-  ]
-
-fields_of_interests:
-  [
-    "Machine Learning",
-    "Deep Learning",
-    "Data Science",
-    "MLOps",
-    "Web Development",
-    "UI/UX",
-  ]
-technical_background:
-  [
-    "NLP Researcher Intern at TotalEnergies",
-    "Software Engineering Intern for IHM at Thales AVS",
-  ]
-  
-hobbies: ["Gaming", "Running", "Music", "Reading", "Cinema"]
-```
   
 ---  
   
